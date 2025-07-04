@@ -9,3 +9,7 @@ first_name = "Kalpani"
 print (price)
 print (first_name)
 print (is_online)
+
+
+name = input ("What is your name  ")
+print("Hello"+name)
