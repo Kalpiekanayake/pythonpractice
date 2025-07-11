@@ -32,3 +32,6 @@ first = float(input("First"))
 second = float (input("Second"))
 sum =  first+second
 print(sum)
+
+course = "Python for beginners"
+print (course.upper())
